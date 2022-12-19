@@ -1,4 +1,4 @@
-//Abelardo Magana Jr., Kendrick Affel, amagana60@toromail.csudh.edu
+//Abelardo Magana Jr., Kendrick Affel, amagana60@toromail.csudh.edu, kaffel1@toromail.csudh.edu
 
 public class Account{
 	private boolean isClosed; 
